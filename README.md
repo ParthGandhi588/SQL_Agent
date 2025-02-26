@@ -1,4 +1,4 @@
-# SQL Agent API
+# SQL Agent 
 
 This project implements a FastAPI application that uses an LLM-powered SQL agent to convert natural language queries into SQL statements and execute them against a PostgreSQL database.
 
